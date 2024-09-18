@@ -1,5 +1,8 @@
+
 Hangman Game
+
 Overview
+
 This is a simple implementation of the classic Hangman game. The player tries to guess a hidden word by suggesting letters within a limited number of attempts.
 
 How to Play
